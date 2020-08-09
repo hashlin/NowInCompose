@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NowInCompose</string>
+    <string name="label">"Click me to change color!"</string>
+</resources>
